@@ -1256,6 +1256,8 @@ start_menu() {
   clear
   echo && echo -e " ${Green_font_prefix}Feemo 方生--加速器 ${Green_font_prefix} ${Red_font_prefix}[v${sh_ver}] 保护内核${Font_color_suffix}
   ********************************************************************************************
+  
+  ********************************************************************************************
   echo && echo -e " ${Green_font_prefix} 维护:fll ${Green_font_prefix} ${Red_font_prefix}[v${sh_ver}] 保护内核${Font_color_suffix}
   echo && echo -e " ${Green_font_prefix} 作者:fll ${Green_font_prefix} ${Red_font_prefix}[v${sh_ver}] 保护内核${Font_color_suffix}
  ${Green_font_prefix}0.${Font_color_suffix} 升级脚本
