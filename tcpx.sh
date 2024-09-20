@@ -1258,8 +1258,8 @@ start_menu() {
   ********************************************************************************************
   
   ********************************************************************************************
-  echo && echo -e ${Green_font_prefix} 维护:fll ${Green_font_prefix} ${Red_font_prefix}[v${sh_ver}] 保护内核${Font_color_suffix}
-  echo && echo -e ${Green_font_prefix} 作者:fll ${Green_font_prefix} ${Red_font_prefix}[v${sh_ver}] 保护内核${Font_color_suffix}
+   ${Green_font_prefix} 维护:fll ${Green_font_prefix} ${Red_font_prefix}[v${sh_ver}] 保护内核${Font_color_suffix}
+   ${Green_font_prefix} 作者:fll ${Green_font_prefix} ${Red_font_prefix}[v${sh_ver}] 保护内核${Font_color_suffix}
  ${Green_font_prefix}0.${Font_color_suffix} 升级脚本
  ${Green_font_prefix}9.${Font_color_suffix} 切换到卸载内核版本		${Green_font_prefix}10.${Font_color_suffix} 切换到一键DD系统脚本
  ${Green_font_prefix}1.${Font_color_suffix} 安装 BBR原版内核		${Green_font_prefix}7.${Font_color_suffix} 安装 Zen官方版内核
